@@ -1,8 +1,8 @@
 {
 	"Servers": [
 		{
-			"URL": "http://iluoyang.tk/goproxy/index.php",
-			"Password": "123456",
+			"URL": "http://goproxy-goproxy.193b.starter-ca-central-1.openshiftapps.com/daili.php",
+			"Password": "repair77-goproxy.193b",
 			"SSLVerify": false,
 			"Host": "",
 		}
