@@ -5,7 +5,13 @@
 			"Password": "repair77-goproxy.193b",
 			"SSLVerify": false,
 			"Host": "",
-		}
+		},
+		{
+			"URL": "http://iluoyang.tk/goproxy/index.php",
+			"Password": "123456",
+			"SSLVerify": false,
+			"Host": "",
+		},
 	],
 	"Transport": {
 		"Dialer": {
