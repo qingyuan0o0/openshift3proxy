@@ -3,7 +3,7 @@
 
 $__version__  = '3.1.2';
 $__password__ = 'repair77-goproxy.193b';
-$__hostsdeny__ = array('.youtube.com'); // $__hostsdeny__ = array('.youtube.com', '.youku.com');
+$__hostsdeny__ = array(); // $__hostsdeny__ = array('.youtube.com', '.youku.com');
 $__content_type__ = 'image/gif';
 $__timeout__ = 20;
 $__content__ = '';
