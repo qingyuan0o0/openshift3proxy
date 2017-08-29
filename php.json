@@ -1,7 +1,8 @@
 {
 	"Servers": [
 		{
-			"URL": "http://goproxy-goproxy.193b.starter-ca-central-1.openshiftapps.com/daili.php",
+			// "URL": "http://goproxy-goproxy.193b.starter-ca-central-1.openshiftapps.com/server/daili.php",
+			"URL": "http://123tui.tk/server/daili.php",
 			"Password": "repair77-goproxy.193b",
 			"SSLVerify": false,
 			"Host": "",
