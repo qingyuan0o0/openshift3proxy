@@ -1,8 +1,21 @@
+# 缓存
 cache/
 *.md
+*.html
+
+#安全证书
 *.crt
+
 *.key
+# 客户端配置文件
 *.json
+# 客户端程序
 *.exe
+# 谷歌浏览器插件
 *.crx
-daili.php
+# ip库
+*.dat
+# 客户端脚本
+*.cmd
+*.vbs
+*.txt
