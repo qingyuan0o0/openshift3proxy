@@ -21,6 +21,8 @@
 			"DNSCacheExpiry": 3600,
 			"DNSCacheSize": 8192
 		},
+		// PHP 代理的前置代理设置。
+		// 支持 QUIC、http、https、ssh、socks4 和 socks5 。
 		"Proxy": {
 			"Enabled": false,
 			"URL": "http://127.0.0.1:8087",

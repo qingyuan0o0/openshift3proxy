@@ -225,7 +225,7 @@ function get() {
     if ($host && $host != $domain && $host != 'www'.$domain) {
         header('Location: http://www.' . $domain);
     } else {
-        header('Location: https://www.google.com');
+        header('Location: https://www.google.com/ncr');
     }
 }
 

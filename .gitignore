@@ -1,4 +1,8 @@
 cache/
 *.md
 *.crt
-
+*.key
+*.json
+*.exe
+*.crx
+daili.php
